@@ -1,0 +1,54 @@
+1
+Rowlet
+Grass Quill Pemon
+GRASS
+FLYING
+1
+0
+3.3
+Silently it glides, drawing near its targets. Before they even notice it, it begins to pelt them with vicious kicks.
+2
+Dartrix
+Blade Quill Pokemon
+GRASS
+FLYING
+2
+4
+35.3
+It throws sharp feathers called blade quills at enemies or prey. It seldom misses.
+3
+Decidueye
+Arrow Quill Pokemon
+GRASS
+GHOST
+5
+3
+80.7
+Although basically cool and cautious, when it's caught by surprise, it's siezed by panic.
+4
+Litten
+Fire Cat Pokemon
+FIRE
+ 
+1
+4
+9.5
+It doesn't allow its emotions to easily be seen. Earning its trust takes time. It prefers solitude.
+5
+Torracat
+Fire Cat Pokemon
+FIRE
+ 
+2
+4
+55.1
+It boasts powerful front legs. With a single punch, it can bend an iron bar right over.
+6
+Incineroar
+Heel Pokemon
+FIRE
+DARK
+5
+11
+183
+After hurling ferocious punches and flinging furious kicks, it finishes opponents off by spewing fire from around its navel.
